@@ -7,7 +7,7 @@
 - Real time chat engine for comments
 - Blog
 - Portfolio
-= Drag and drop interface
+- Drag and drop interface
 
 ### Code Example
 ```ruby
@@ -17,4 +17,4 @@ end
 ```
 ```javascript
 alert('Hello World!')
-```
+'''
